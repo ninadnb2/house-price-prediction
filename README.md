@@ -1,8 +1,7 @@
 **Problem Statemtent**
 By analyzing these Bangalore house data we will determine the approximate price for the houses.
 
-**Data Description**
-Columns:
+**Data Description Columns:**
 
 area_type
 availability
